@@ -1,6 +1,6 @@
 # SSR `withFetch()` memory leakage repro
 
-First, eecute `npm i`
+First, execute `npm i`
 
 ## Prepare test with `ẁithFetch()` enabled:
 
