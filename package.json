@@ -4,7 +4,7 @@
   "scripts": {
 
     "test": "node test.mjs",
-    "serve-demo": "ng run leakage-repro-app:server && node --inspect dist/server/main.js"
+    "serve-demo": "ng run leakage-repro-app:server:production && node --inspect dist/server/main.js"
   },
   "engines": {
     "node": ">=20.11.0"
